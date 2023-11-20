@@ -2,22 +2,22 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis was to evaluate credit risk using a dataset containing information about loans. 
-The dataset comprised 75,036 healthy loans (label 0) and 2,500 high-risk loans (label 1). 
+The purpose of this analysis is to evaluate credit risk using a dataset containing information about loans. 
+The dataset comprises 75,036 healthy loans (label 0) and 2,500 high-risk loans (label 1). 
 The analysis involved using logistic regression and oversampling to handle the imbalanced dataset.
 
 ### Purpose of the Analysis
-The primary objective of this analysis was to conduct a credit risk assessment using machine learning techniques on a dataset containing financial information related to loans. 
-The aim was to develop a predictive model capable of evaluating loan statuses and identifying potential high-risk loans.
+The primary objective of this analysis is to conduct a credit risk assessment using machine learning techniques on a dataset containing financial information related to loans. 
+The aim is to develop a predictive model capable of evaluating loan statuses and identifying potential high-risk loans.
 
 ### Financial Information in the Data
-The dataset contained various financial attributes associated with loans, such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, total debt, and the crucial target variable, "loan_status." 
-The goal was to predict the loan_status, where a value of 0 indicated a healthy loan, while a value of 1 indicated a high-risk loan susceptible to default.
+The dataset contains various financial attributes associated with loans, such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, total debt, and the crucial target variable loan status. 
+The goal is to predict the loan status, where a value of 0 indicated a healthy loan, while a value of 1 indicated a high-risk loan susceptible to default.
 
 ### Variables Being Predicted
-The target variable, loan_status, was the focal point of prediction. 
+The target variable, loan status, was the focal point of prediction. 
 The dataset comprised 75,036 healthy loans labeled as 0 and 2,500 high-risk loans labeled as 1. 
-The analysis aimed to develop a model capable of accurately distinguishing between these two classes to effectively predict loan statuses.
+The analysis aims to develop a model capable of accurately distinguishing between these two classes to effectively predict loan statuses.
 
 ### Stages of the Machine Learning Process
 The analysis followed a structured approach:
