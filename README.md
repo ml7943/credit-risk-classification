@@ -44,13 +44,13 @@ This technique artificially balanced the classes in the training data by oversam
 
 ## Summary
 The logistic regression model, especially when utilized with resampled data, showed remarkable accuracy in predicting both healthy and high-risk loans. 
-
-## Author and Date
-- **Author:** `Mu Li`
-- **Date:** `11/20/2023`
 It accurately identified healthy loans with minimal misclassifications and demonstrated a high ability to recognize high-risk loans, albeit with a few false positives. 
 Overall, the model exhibited exceptional accuracy and a robust capacity to handle imbalanced classes.
 
 These results highlight the model's effectiveness in credit risk assessment. 
 The detailed analysis and performance metrics suggest that the model, particularly with oversampling, is highly recommendable for the company's credit risk evaluation, 
 considering its remarkable accuracy and capability to handle imbalanced datasets.
+
+## Author and Date
+- **Author:** `Mu Li`
+- **Date:** `11/20/2023`
